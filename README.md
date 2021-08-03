@@ -6,7 +6,7 @@
 
 # MILLINAIRE-GAME
 
-Salam xoş gördük bu dərsimizdə HTML-5 və CSS-3 istifadə edərək **MILLINAIRE-GAME** düzəltməyi test etdik. Yazdığımız kodları və alınan nəticəni analiz etmək üçün aşağıdakı addımları izləyə bilərsiniz
+Salam xoş gördük bu dərsimizdə HTML-5 və CSS-3 istifadə edərək **MILLIONAIRE-GAME** düzəltməyi test etdik. Yazdığımız kodları və alınan nəticəni analiz etmək üçün aşağıdakı addımları izləyə bilərsiniz
 Təkcə **HTML** istifadə etməklə yığdığım **Milyonçu** oyunu heç bir **CSS** və **JS** olmadan baxa bilərsiniz.
  <br/> Burada **HTML**-in bir çox teqlərindən istifadə etmişəm. İlk öncə üz səhifədə **img**, **audio**, **map** və **area** teqlərindən istifadə edərək, şəkilədəki "Oyuna Başla" yerinə **area** teqi vasitəsilə koordinant vermişəm. Həmçinin oyunun başlanğıc hissəsinə oyun musiqisi yükləmişəm(burada **audio** teqinə **autoplay** atributunu verərək görünməz səs effekti vermişəm). 
  <br/> Daha sonra **form** və **input** teqləri vasitəsilə oyunun qeydiyyat formunun yığmışam. Və gələk oyun hissəsinə burada 6 sualdan istifadə etmişəm və hər sual üçün ayrı-ayrı **html** fayları yaratmışam. Hər sualın yuxarı hissəsində **marquee** teqi vasitəsilə suala aid olan şəkilləri slayt kimi düzəltmişəm, həmçinin bu sualların hamısında **audio** teqi vasitəsilə **Saat(yəni "TikTok")** səsi yerləşdirmişəm. 
@@ -19,7 +19,7 @@ Təkcə **HTML** istifadə etməklə yığdığım **Milyonçu** oyunu heç bir 
 
 
 > **ADDIM-1:**   `git clone https://github.com/cavidsuleyman/MILLIONAIRE-GAME.git` <br/>
-> **ADDİM-2:**  yaranan `MILLINAIRE-GAME` qovluğuna daxil olun <br/>
+> **ADDİM-2:**  yaranan `MILLIONAIRE-GAME` qovluğuna daxil olun <br/>
 > **ADDİM-3:**  içərisində olduğunuz qovluğu mətn redaktorunda açın <br/>
 > **ADDİM-4:**  ana qovluqda olan `index.html` fayılını işə salın <br/>
 > **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/SADE-HOM-PAGE/archive/refs/heads/master.zip) click edin <br/>
