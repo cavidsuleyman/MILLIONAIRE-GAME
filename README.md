@@ -22,7 +22,7 @@ Təkcə **HTML** istifadə etməklə yığdığım **Milyonçu** oyunu heç bir 
 > **ADDİM-2:**  yaranan `MILLIONAIRE-GAME` qovluğuna daxil olun <br/>
 > **ADDİM-3:**  içərisində olduğunuz qovluğu mətn redaktorunda açın <br/>
 > **ADDİM-4:**  ana qovluqda olan `index.html` fayılını işə salın <br/>
-> **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/SADE-HOM-PAGE/archive/refs/heads/master.zip) click edin <br/>
+> **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/MILLIONAIRE-GAME/archive/refs/heads/master.zip) click edin <br/>
 
 
 ## TEXNOLOGİYA
