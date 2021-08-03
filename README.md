@@ -38,6 +38,6 @@ Bu layihə aşağıdakı texnologiyalar istifadə edilərək hazırlanıb
 
 ## NÜMUNƏ EKRAN GÖRÜNTÜSÜ
 
-![Burada ekran görüntüsü var idi](../screen/screen-1.png)
+![Burada ekran görüntüsü var idi](./screen/screen-1.png)
 
 
