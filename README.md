@@ -4,7 +4,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 
-# MILLINAIRE-GAME
+# MILLIONAIRE-GAME
 
 Salam xoş gördük bu dərsimizdə HTML-5 və CSS-3 istifadə edərək **MILLIONAIRE-GAME** düzəltməyi test etdik. Yazdığımız kodları və alınan nəticəni analiz etmək üçün aşağıdakı addımları izləyə bilərsiniz
 Təkcə **HTML** istifadə etməklə yığdığım **Milyonçu** oyunu heç bir **CSS** və **JS** olmadan baxa bilərsiniz.
