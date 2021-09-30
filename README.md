@@ -1,4 +1,4 @@
-# GITHUB GÖSTƏRİCİLƏRİ
+# GITHUB INDICATORS
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
